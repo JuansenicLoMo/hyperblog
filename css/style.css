@@ -2,5 +2,20 @@ body{
 
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: darkmagenta;
+    font-size: 14px;
+    color: gray;
 }
+
+#container{
+ width: 70%;
+ padding: 1em;
+ text-align: left;
+ border: 1px solid #ddd;
+ margin: auto;
+ 
+}
+#container h1{
+font-size: 22px;
+font-weight: bold;
+}
+
