@@ -19,3 +19,9 @@ font-size: 22px;
 font-weight: bold;
 }
 
+#cabecera{
+    background-color: #a4fcc0;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
